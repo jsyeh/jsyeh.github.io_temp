@@ -1,13 +1,11 @@
 # About 關於 jsyeh.github.io
-==========================
 GitHub Pages for Personal Website
 
 ![圖名,如果讀不到圖的時會秀中文](we.png) 要用英文檔名
 
 這是 葉正聖 的網頁介紹。這裡也會記錄作法, 介紹如何把網站設好。
 
-如何在自己的電腦設定 web server
--------------------------------
+# 如何在自己的電腦設定 web server
 
 1. 先在自己的電腦裡, 下載安裝 xampp
 2. 假設 xampp 安裝在 `C:\xampp`, 那你的網頁就會在 `C:\xampp\htdocs`
@@ -18,8 +16,7 @@ GitHub Pages for Personal Website
 4. (可選) 因為我在學校的電腦, 有自己的固定 IP, 所以可利用 IP 直接連到 xampp server
 7. (可選) 接著, 買好網址, 把 DNS 設到你的 固定IP, 就可用你買的網址, 連到你的網站
 
-如何將 index.html 放上 jsyeh.github.io
---------------------------------------
+# 如何將 index.html 放上 jsyeh.github.io
 
 若無法架 web server, 可利用 GitHub 的服務 --- 申請 GitHub 帳號, 便可有你專屬的網站網址 `yourname.github.io`
 
@@ -35,6 +32,6 @@ GitHub Pages for Personal Website
 
 稍等一下, 便能在你的網站網址 `jsyeh.github.com` 看到你剛剛完成的網頁。之後在你的電腦裡 重覆步驟 4,5,6,7  編輯/上傳你的網頁, 就會越做越好。
 
-相關資料
---------
+# 相關資料
+
 1. [使用 GitHub 免費製作個人網站 https://gitbook.tw/chapters/github/using-github-pages.html ](https://gitbook.tw/chapters/github/using-github-pages.html)
