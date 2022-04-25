@@ -1,7 +1,9 @@
 # About 關於 jsyeh.github.io
 GitHub Pages for Personal Website
 
-![圖名,如果讀不到圖的時會秀中文](we.png) 要用英文檔名
+要用英文檔名
+
+![圖名,如果讀不到圖的時會秀中文](we.png) 
 
 這是 葉正聖 的網頁介紹。這裡也會記錄作法, 介紹如何把網站設好。
 
